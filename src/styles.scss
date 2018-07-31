@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face { font-family: 'Fedra'; src: url('assets/fonts/Fedra12-Normal.otf'); }
+@font-face { font-family: 'Gill'; src: url('assets/fonts/GillSansMTPro-Book.otf'); }
+@font-face { font-family: 'Gidd'; src: url('assets/fonts/GiddyupStd.otf'); }
+@font-face { font-family: 'Mezz'; src: url('assets/fonts/MezzStd-Regular.otf'); }
+@font-face { font-family: 'MezzB'; src: url('assets/fonts/MezzStd-Semibold.otf'); }
+@font-face { font-family: 'Quake'; src: url('assets/fonts/QuakeStd.otf'); }
+
+body {
+  margin: 0;
+}

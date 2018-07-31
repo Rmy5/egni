@@ -1,0 +1,26 @@
+.footer-fixed-bottom {
+  position: fixed;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  //border-top: 1px solid rgb(75, 18, 18);
+  border-top: 1px solid rgba(67, 67, 67, 0.83);
+}
+
+.color-dark {
+  background-color: black;
+}
+
+.footer-copyright {
+  padding-left: 35px;
+  font-family: 'Gill';
+  font-size: 12px;
+}
+
+.page-footer {
+  padding-top: 4px;
+}
+
+.text-color {
+  color: #5c5c5c;
+}

@@ -1,0 +1,42 @@
+.navbar-fixed-top {
+  position: fixed;
+  right: 0;
+  left: 0;
+}
+
+.navbar-dark {
+  padding-bottom: 10px;
+  background: linear-gradient(to left,
+          rgba(255, 0, 0, 0) 40%,
+          rgb(132, 18, 18) 100%
+  ) left bottom no-repeat;
+  background-size: 100% 3px;
+}
+
+.navbar-brand img {
+  width: auto;
+  height: 50px;
+}
+
+.navbar-brand {
+  padding: 0;
+  margin-right: 25px;
+}
+
+.navbar-nav li {
+  padding-top: 6.5px;
+  margin-right: 10px;
+}
+
+.navbar-nav li a{
+  font-family: 'Gill';
+  font-size: 18px;
+  transition: .5s;
+}
+
+.navbar-nav li a:hover{
+  transition: .5s;
+}
+
+
+
